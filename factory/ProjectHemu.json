@@ -1,0 +1,9 @@
+{
+	"name": "ProjectHemu",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "34ad2b17-7c23-4e6d-96b6-43b0e1598753",
+		"tenantId": "c493b23e-a23a-470b-a650-d48e1cdf25c4"
+	}
+}
