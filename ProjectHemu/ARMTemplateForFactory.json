@@ -183,7 +183,7 @@
 						"typeProperties": {
 							"variableName": "gitupmetadata",
 							"value": {
-								"value": "@activity('gitupmetadata').output",
+								"value": "@activity('gitupmetadata').output.Response",
 								"type": "Expression"
 							}
 						}
